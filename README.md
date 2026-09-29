@@ -51,6 +51,11 @@ All 3 open test cases passed on the DIO platform.
 - **MFA (Multi-Factor Authentication):** combines two or more factors: something you know, something you have, something you are.
 - **OAuth:** an open standard that lets an app access resources on your behalf without ever seeing your password.
 
+## Screenshots
+
+![Challenge description](challenge-description.png)
+![All open tests passed](test-1-2.png)
+
 ## Tech Stack
 
 - Python 3
