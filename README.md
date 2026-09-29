@@ -44,17 +44,18 @@ All 3 open test cases passed on the DIO platform.
 | #2 | Authorization | Permission to access specific resources | Passed |
 | #3 | MFA | Verification using multiple security factors | Passed |
 
+## Screenshots
+
+![Challenge description](challenge-description.png.png)
+![All open tests passed](test-1-2.png.png)
+
+
 ## Key Concepts
 
 - **Authentication (AuthN):** proves *who you are* (e.g., password, biometrics).
 - **Authorization (AuthZ):** defines *what you can do* after being authenticated.
 - **MFA (Multi-Factor Authentication):** combines two or more factors: something you know, something you have, something you are.
 - **OAuth:** an open standard that lets an app access resources on your behalf without ever seeing your password.
-
-## Screenshots
-
-![Challenge description](challenge-description.png)
-![All open tests passed](test-1-2.png)
 
 ## Tech Stack
 
